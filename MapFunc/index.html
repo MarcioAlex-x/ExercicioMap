@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        produtos = [
+            {
+                item : 'Calça',
+                preco : 80.00
+            },
+            {
+                item : 'Camisa',
+                preco : 70.00
+            },
+            {
+                item : 'Boné',
+                preco : 60.00
+            },
+            {
+                item : 'Mochila',
+                preco : 180.00
+            },
+            {
+                item : 'Tênis',
+                preco : 260.00
+            }
+        ]
+        const map1 = produtos.map(function (x){
+            return console.log('Produto: ' + x.item + ', preço: R$' + x.preco + ', preço com aumento: R$' + x.preco * 1.5)
+        })
+        
+    </script>
+</body>
+</html>
