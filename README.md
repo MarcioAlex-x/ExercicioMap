@@ -2,8 +2,8 @@
 
 Alunos parcipantes: 
 
-Márcio Alex
-Lucas Muniz
-Larissa Maria
-Maira Nathalya
-Mateus Lemos
+<p>Márcio Alex</p>
+<p>Lucas Muniz</p>
+<p>Larissa Maria</p>
+<p>Maira Nathalya</p>
+<p>Mateus Lemos</p>
